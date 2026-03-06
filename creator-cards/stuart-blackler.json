@@ -21,11 +21,7 @@
     },
     {
       "name": "Blog",
-      "url": "https://im5tu.io/article/"
-    },
-    {
-      "name": "Newsletter",
-      "url": "https://news.codewithstu.tv"
+      "url": "https://codewithstu.tv"
     }
   ],
   "feeds": [
@@ -35,7 +31,7 @@
     },
     {
       "type": "LinkTagRssType",
-      "url": "https://im5tu.io/tags/dotnet/index.xml"
+      "url": "https://codewithstu.tv/thoughts/dotnet/feed.xml"
     }
   ]
 }
